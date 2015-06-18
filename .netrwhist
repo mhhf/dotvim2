@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/mhhf/.vim'
+let g:netrw_dirhist_2='/Users/mhhf/.vim/bundle'
+let g:netrw_dirhist_3='/Users/mhhf/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_4='/Users/mhhf/.vim/bundle'
+let g:netrw_dirhist_5='/Users/mhhf/.vim'
+let g:netrw_dirhist_6='/Users/mhhf'
+let g:netrw_dirhist_7='/Users/mhhf/school/suk/praktikum/konzept'
+let g:netrw_dirhist_8='/Users/mhhf/school/suk/praktikum'
+let g:netrw_dirhist_9='/Users/mhhf/school/suk/praktikum/konzept'
